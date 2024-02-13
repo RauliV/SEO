@@ -1,0 +1,36 @@
+{
+  "name": "hakusanaparseri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "available-typed-arrays": "^1.0.5",
+    "call-bind": "^1.0.5",
+    "define-data-property": "^1.1.1",
+    "for-each": "^0.3.3",
+    "fs": "^0.0.1-security",
+    "function-bind": "^1.1.2",
+    "g-trends": "^0.0.9",
+    "get-intrinsic": "^1.2.2",
+    "gopd": "^1.0.1",
+    "has-property-descriptors": "^1.0.1",
+    "has-proto": "^1.0.1",
+    "has-symbols": "^1.0.3",
+    "has-tostringtag": "^1.0.0",
+    "hasown": "^2.0.0",
+    "inherits": "^2.0.4",
+    "is-arguments": "^1.1.1",
+    "is-callable": "^1.2.7",
+    "is-generator-function": "^1.0.10",
+    "is-typed-array": "^1.1.12",
+    "serpapi": "^2.0.0",
+    "set-function-length": "^1.2.0",
+    "util": "^0.12.5",
+    "which-typed-array": "^1.1.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
